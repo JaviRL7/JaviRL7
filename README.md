@@ -32,24 +32,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="30" alt="Railway"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS"/>
 </p>
 
 ---
 
-### 🚀 Featured projects
-- **Arena** — Estadísticas y foros de League of Legends. `PHP/Laravel, JS`  
-  🔗 https://github.com/JaviRL7/Arena
-- **NBA** — Juego 3×3 con la API balldontlie. `React, Tailwind, Express`  
-  🔗 https://github.com/JaviRL7/NBA
-- **Temperatura** — App del clima + mini-portfolio. `TS, OpenWeatherMap`  
-  🔗 https://github.com/JaviRL7/Temperatura
-- **BOT-opos** — Asistente para resúmenes y tests desde PDF. `Python + LLM`  
-  🔗 https://github.com/JaviRL7/BOT-opos
-- **Tienda2025** — E-commerce en Next.js.  
-  🔗 https://github.com/JaviRL7/Tienda2025
-- **Portfolio animado** — Efectos y transiciones.  
-  🔗 https://github.com/JaviRL7/Porfolio
+### 🚀 Featured Projects
+- **LeagueArena** — Plataforma de estadísticas y foros de *League of Legends*.  
+  📌 `PHP (Laravel) · JavaScript`  
+  🔗 https://github.com/JaviRL7/Arena  
+
+- **Hoops 3x3** — Juego interactivo de baloncesto usando la API balldontlie.  
+  📌 `React · TailwindCSS · Express`  
+  🔗 https://github.com/JaviRL7/NBA  
+
+- **SkyCast** — App del clima con geolocalización y mini-portfolio integrado.  
+  📌 `TypeScript · OpenWeatherMap API`  
+  🔗 https://github.com/JaviRL7/Temperatura  
+
+- **StudyBot** — Asistente para oposiciones: genera resúmenes y tests a partir de PDFs.  
+  📌 `Python · LLMs · Automatización`  
+  🔗 https://github.com/JaviRL7/BOT-opos  
+
+- **NextShop** — Tienda online con carrito, productos y diseño responsive.  
+  📌 `Next.js · TypeScript · PostgreSQL`  
+  🔗 https://github.com/JaviRL7/Tienda2025  
+
+- **Portafolio Animado** — Portfolio personal con transiciones y efectos modernos.  
+  📌 `React · Framer Motion`  
+  🔗 https://github.com/JaviRL7/Porfolio  
+
 
 ---
 
